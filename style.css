@@ -1,0 +1,11 @@
+p{
+    color: blue;
+}
+body{
+    background-image: url(zaszlo.jpg);
+    background-size: cover;
+}
+h1{
+    color: red;
+    text-align: center;
+}
