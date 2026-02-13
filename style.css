@@ -1,11 +1,38 @@
+
+h2{
+    color: rgb(0, 0, 0);
+}
+
 p{
-    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* text-align: justify; */
+    color: black;
+    margin: 20px 100px 20px 100px;
+    background-color: rgb(192, 164, 127);
+    text-indent: 20px; /*elso sor behuzasa*/
 }
-body{
-    background-image: url(zaszlo.jpg);
-    background-size: cover;
+li{
+    
+    /* list-style-image: url(logo.png); */
+
 }
-h1{
-    color: red;
-    text-align: center;
+
+#bejarat{
+    height: 200px;
+    float: right;
+    border: 5px solid pink;
+    padding: 8px;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+#ujkori{
+    text-decoration: underline;
+} 
+
+.bekezdes{
+    text-transform: uppercase;
 }
